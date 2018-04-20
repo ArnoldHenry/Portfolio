@@ -16,8 +16,8 @@ No bugs
 * CSS
 
 ## Contact details
-* [Gmail](arnoldomwoyo2@gmail.com)
-* [Twitter](@saisi_arnold)
+[1.1]: http://i.imgur.com/tXSoThF.png
+[1]: http://www.twitter.com/@arnoldhenry
 #### Support
 Open forum for all
 #### .
