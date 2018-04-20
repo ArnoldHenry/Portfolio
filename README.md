@@ -4,7 +4,7 @@ Simple Resort website, 18/4/2018
 ## Description
 This is website of my portfolio that shows different styles and programming languages
 that have been used to create the website.
-![Landing page Screenshot](images/screenshot.jpg)
+![Landing page Screenshot](images/screenshot.png)
 ## Setup/Installation Requirements
 No installation needed just click the link below to view my website online
 [My Portfolio](https://arnoldhenry.github.io/portfolio/)
