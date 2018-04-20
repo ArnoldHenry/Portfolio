@@ -16,8 +16,7 @@ No bugs
 * CSS
 
 ## Contact details
-[1.1]: http://i.imgur.com/tXSoThF.png
-[1]: http://www.twitter.com/@arnoldhenry
+Twitter - > @saisi_arnold
 #### Support
 Open forum for all
 #### .
