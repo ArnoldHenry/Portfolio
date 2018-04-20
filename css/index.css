@@ -84,7 +84,16 @@ p{
   text-align: justify;
 }
 a.myabout{
-  color: #FFFFFF;
-  margin: 0;
+  margin: 10px;
   padding: 0;
+  float: right;
+  background-color: #FFFFFF;
+  padding: 7px;
+  border-radius: 3px;
+}
+a:hover{
+  background-color: #000000;
+  color: #80e5ff;
+  border: solid 1px #80e5ff;
+  border-radius: 3px;
 }
