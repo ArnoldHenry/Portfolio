@@ -14,9 +14,9 @@ No bugs
 **Language used;**
 * html
 * CSS
-## Support and contact details
-###### Contact
+##Contact details
 * [Gmail](arnoldomwoyo2@gmail.com)
 * [Twitter](@saisi_arnold)
-Comment if any issues arise
+#### Support
+Open forum for all
 Copyright (c) {2018} **Arnold Henry**
