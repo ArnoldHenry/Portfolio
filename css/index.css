@@ -76,24 +76,40 @@ li a{
   padding: 5px;
   margin: 0;
   display: block;
-}
-a:hover{
-  color: blue;
+  transition: all 1s ease;
+  border: solid 1.5px #80e5ff;
+  text-decoration: none;
+  background-color: #FFFFFF;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 25px;
 }
 p{
   text-align: justify;
 }
 a.myabout{
+  transition: all 1s ease;
+  border: solid 1.5px #80e5ff;
   margin: 10px;
-  padding: 0;
   float: right;
   background-color: #FFFFFF;
-  padding: 7px;
-  border-radius: 3px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 25px;
 }
 a:hover{
+  transition: all 1s ease;
   background-color: #000000;
   color: #80e5ff;
-  border: solid 1px #80e5ff;
+  border: solid 1.5px #80e5ff;
   border-radius: 3px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 25px;
 }
