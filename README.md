@@ -14,7 +14,8 @@ No bugs
 **Language used;**
 * html
 * CSS
-##Contact details
+
+## Contact details
 * [Gmail](arnoldomwoyo2@gmail.com)
 * [Twitter](@saisi_arnold)
 #### Support
