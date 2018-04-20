@@ -2,7 +2,7 @@ body{
   background: url("../images/bg.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
-  position: fixed;
+
 }
 ul{
   text-decoration: none;
@@ -34,5 +34,12 @@ a:hover{
   border-radius: 25px;
 }
 .aboutme{
-  
+  margin: auto;
+  background-color: #FFFFFF;
+  padding: 10px;
+  border-radius: 5px;
+  width: 500px;
+  text-align: justify;
+  font-style: italic;
+  opacity: 0.8;
 }
